@@ -6,14 +6,9 @@
 
 ---
 
-> **THE AI AGENT REALITY GAP JUST GOT WIDER**
->
-> A triangle with vertices **Mission Alignment**, **Adaption Speed**, and **Feasibility**.
-> - Edge *Mission Alignment ↔ Adaption Speed*: **Alignment suffers**
-> - Edge *Mission Alignment ↔ Feasibility*: **Usage moves underground**
-> - Edge *Adaption Speed ↔ Feasibility*: **Trust collapses**
->
-> Source: <https://arxiv.org/pdf/2604.27245>
+![The AI Agent Reality Gap Just Got Wider — triangle with Mission Alignment, Adaption Speed and Feasibility at its vertices; edges labelled Alignment suffers, Usage moves underground, Trust collapses](images/hero.png)
+
+*Source: <https://arxiv.org/pdf/2604.27245>*
 
 ---
 
@@ -40,6 +35,8 @@ Over 80% of students say their teachers have never explicitly taught them how to
 The users are decades ahead of the institutions. That is the reality gap.
 
 ## Power to the people: How LLMs flip the script on technology diffusion
+
+![Institutions, cities and people connected by arrows — illustrating the bottom-up diffusion of AI](images/diffusion.jpg)
 
 Andrej Karpahti wrote about this an a blog post…how transformative technologies usually follow a top-down diffusion path…
 
@@ -85,6 +82,8 @@ And the list goes on…
 
 ## The three-tension framework
 
+![The three tensions — Mission Alignment, Adaptation Speed, Implementation Feasibility — arranged as a triangle](images/three-tensions.png)
+
 Any serious agentic deployment has to balance three tensions that pull against each other.
 
 ### Implementation Feasibility
@@ -118,6 +117,8 @@ This is the tension that gets paved over when speed wins.
 It is also the one that survives the longest after a project ships.
 
 ## Tensions interact
+
+![The AI Agent Reality Gap Just Got Wider — alternative layout of the triangle showing Adaption Speed, Mission Alignment, Feasibility with the same three edge labels](images/reality-gap-alt.jpg)
 
 This is the part I t think most rollout frameworks miss.
 
